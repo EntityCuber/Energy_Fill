@@ -1,5 +1,5 @@
 # Energy_Fill
-A Python program that shows how fluid fills in a 2 Dimensional grid ![alt text](Grid.bmp)![alt text](Grid_Filled.bmp)
+A Python program that shows how fluid fills in a 2 Dimensional grid ![alt text](Grid.bmp)  ![alt text](Grid_Filled.bmp)
 ![alt text](Grid.png)
 ![alt text](Grid_Filled.png)
 
