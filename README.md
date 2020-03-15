@@ -6,3 +6,5 @@ A Python program that shows how fluid fills in a 2 Dimensional grid ![alt text](
 
 Inspired from puzzle in TED-Ed | Think Like A Coder, Ep 7:
 https://www.youtube.com/watch?v=Xq-szohkAqU&t=116s
+
+[![Run on Repl.it](https://repl.it/badge/github/EntityCuber/Energy_Fill)](https://repl.it/github/EntityCuber/Energy_Fill)
